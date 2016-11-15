@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Smart Roots</string>
+    <string name="edit_message">Enviar mensaje por Voz</string>
+    <string name="button_send">Activar</string>
+
+
+    <string name="edit_message_2">Ingrese mensaje</string>
+    <string name="button_send_2">Enviar!</string>
+</resources>
